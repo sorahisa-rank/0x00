@@ -1,0 +1,20 @@
+-   [0x00 -- 2020 TOI Simulation](https://codeforces.com/group/GG44hyrVLY/contest/271250)
+    -   正式賽：https://sorahisa-rank.github.io/0x00/0x00/ranking/
+-   [0x01 -- 2020 花中一模](https://codeforces.com/group/GG44hyrVLY/contest/297533)
+    -   題本：https://sorahisa-rank.github.io/0x00/0x01/problems.pdf
+    -   場外賽：https://sorahisa-rank.github.io/0x00/0x01/ranking/
+-   [0x02 -- 2020 花中二模](https://codeforces.com/group/GG44hyrVLY/contest/298479)
+    -   題本：https://sorahisa-rank.github.io/0x00/0x02/problems.pdf
+    -   場外賽：https://sorahisa-rank.github.io/0x00/0x02/ranking/
+-   [0x03 -- 2020 花中三模](https://codeforces.com/group/GG44hyrVLY/contest/301661)
+    -   題本：https://sorahisa-rank.github.io/0x00/0x03/problems.pdf
+    -   場外賽：https://sorahisa-rank.github.io/0x00/0x03/ranking/
+-   [0x04 -- 2021 TOI Simulation](https://codeforces.com/group/GG44hyrVLY/contest/316970)
+    -   題本：https://sorahisa-rank.github.io/0x00/0x04/problems.pdf
+    -   正式賽：https://sorahisa-rank.github.io/0x00/0x04/ranking/
+-   [0x05 -- 2021 花中一模](https://codeforces.com/group/GG44hyrVLY/contest/348662)
+    -   題本：https://sorahisa-rank.github.io/0x00/0x05/problems.pdf
+    -   場外賽：https://sorahisa-rank.github.io/0x00/0x05/ranking/
+-   0x06 -- 2021 東區模擬賽
+    -   題本：https://sorahisa-rank.github.io/0x00/0x06/problems.pdf
+    -   正式賽：https://sorahisa-rank.github.io/0x00/0x06/ranking/
