@@ -1,0 +1,88 @@
+{
+    "A": {
+        "name": "\u7b2c\u4e00\u984c\uff1a\u9019\u4e0d\u662f\u4e8c\u5206\u641c (bsearch)",
+        "short_name": "A",
+        "contest": "22-1",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (1)",
+            "Subtask 2 (10)",
+            "Subtask 3 (14)",
+            "Subtask 4 (17)",
+            "Subtask 5 (22)",
+            "Subtask 6 (36)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u7b2c\u4e8c\u984c\uff1a\u9019\u4e0d\u662f LCS \u554f\u984c (lcs)",
+        "short_name": "B",
+        "contest": "22-1",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (38)",
+            "Subtask 2 (4)",
+            "Subtask 3 (7)",
+            "Subtask 4 (51)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 1
+    },
+    "C": {
+        "name": "\u7b2c\u4e09\u984c\uff1a\u9019\u4e0d\u662f\u77e9\u9663\u4e58\u6cd5 (matrix2)",
+        "short_name": "C",
+        "contest": "22-1",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u7b2c\u56db\u984c\uff1a\u9019\u4e0d\u662f\u7c3d\u5230\u984c (registration3)",
+        "short_name": "D",
+        "contest": "22-1",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (50)",
+            "Subtask 2 (50)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "\u7b2c\u4e94\u984c\uff1a\u9019\u4e0d\u662f\u5e8f\u5217\u64cd\u4f5c (sequence)",
+        "short_name": "E",
+        "contest": "22-1",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (16)",
+            "Subtask 2 (17)",
+            "Subtask 3 (12)",
+            "Subtask 4 (29)",
+            "Subtask 5 (26)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F": {
+        "name": "\u7b2c\u516d\u984c\uff1a\u9019\u4e0d\u662f\u6392\u5e8f (sort2)",
+        "short_name": "F",
+        "contest": "22-1",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (30)",
+            "Subtask 2 (70)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

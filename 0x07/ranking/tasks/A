@@ -1,0 +1,17 @@
+{
+    "name": "\u7b2c\u4e00\u984c\uff1a\u9019\u4e0d\u662f\u4e8c\u5206\u641c (bsearch)",
+    "short_name": "A",
+    "contest": "22-1",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (1)",
+        "Subtask 2 (10)",
+        "Subtask 3 (14)",
+        "Subtask 4 (17)",
+        "Subtask 5 (22)",
+        "Subtask 6 (36)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
