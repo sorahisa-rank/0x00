@@ -1,0 +1,13 @@
+{
+    "name": "\u7b2c\u516d\u984c\uff1a\u9019\u4e0d\u662f\u6392\u5e8f",
+    "short_name": "sort2",
+    "contest": "0x07",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (30)",
+        "Subtask 2 (70)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,8 +1,1 @@
-{
-    "22-1": {
-        "name": "0x07",
-        "begin": 0,
-        "end": 10800,
-        "score_precision": 1
-    }
-}
+{"0x07": {"name": "0x07", "begin": 1667366100, "end": 1667376900, "score_precision": 1}}
