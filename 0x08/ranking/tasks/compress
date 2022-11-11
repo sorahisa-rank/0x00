@@ -1,0 +1,16 @@
+{
+    "name": "\u7b2c\u4e09\u984c\uff1a\u5f71\u50cf\u58d3\u7e2e",
+    "short_name": "compress",
+    "contest": "0x08",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (4)",
+        "Subtask 2 (12)",
+        "Subtask 3 (13)",
+        "Subtask 4 (14)",
+        "Subtask 5 (57)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,14 @@
+{
+    "name": "\u7b2c\u4e8c\u984c\uff1a\u985e\u4e58\u6cd5",
+    "short_name": "atimesb",
+    "contest": "0x08",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (23)",
+        "Subtask 2 (26)",
+        "Subtask 3 (51)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -29,3 +29,7 @@
     -   [題本](https://sorahisa-rank.github.io/0x00/0x07/problems.pdf)
     -   [題解](https://sorahisa-rank.github.io/0x00/0x07/editorial.pdf)
     -   [正式賽](https://sorahisa-rank.github.io/0x00/0x07/ranking/)
+-   0x08 – 2022 花中二模
+    -   題本 <!-- (https://sorahisa-rank.github.io/0x00/0x08/problems.pdf) -->
+    -   題解 <!-- (https://sorahisa-rank.github.io/0x00/0x08/editorial.pdf) -->
+    -   [正式賽](https://sorahisa-rank.github.io/0x00/0x08/ranking/)

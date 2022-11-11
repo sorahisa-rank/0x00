@@ -1,0 +1,16 @@
+{
+    "name": "\u7b2c\u4e00\u984c\uff1a\u7c21\u55ae\u5716\u8ad6\u984c",
+    "short_name": "easyproblem",
+    "contest": "0x08",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (10)",
+        "Subtask 2 (20)",
+        "Subtask 3 (20)",
+        "Subtask 4 (20)",
+        "Subtask 5 (30)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
