@@ -25,11 +25,11 @@
     -   [題本](https://sorahisa-rank.github.io/0x00/0x06/problems.pdf)
     -   [題解 on HackMD](https://hackmd.io/@SorahISA/0x06_editorial)
     -   [正式賽](https://sorahisa-rank.github.io/0x00/0x06/ranking/)
--   0x07 – 2022 花中一模
+-   [0x07 – 2022 花中一模](https://codeforces.com/group/GG44hyrVLY/contest/406607)
     -   [題本](https://sorahisa-rank.github.io/0x00/0x07/problems.pdf)
     -   [題解](https://sorahisa-rank.github.io/0x00/0x07/editorial.pdf)
     -   [正式賽](https://sorahisa-rank.github.io/0x00/0x07/ranking/)
--   0x08 – 2022 花中二模
-    -   題本 <!-- (https://sorahisa-rank.github.io/0x00/0x08/problems.pdf) -->
+-   [0x08 – 2022 花中二模](https://codeforces.com/group/GG44hyrVLY/contest/409592)
+    -   [題本](https://sorahisa-rank.github.io/0x00/0x08/problems.pdf)
     -   題解 <!-- (https://sorahisa-rank.github.io/0x00/0x08/editorial.pdf) -->
     -   [正式賽](https://sorahisa-rank.github.io/0x00/0x08/ranking/)
